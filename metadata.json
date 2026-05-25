@@ -1,0 +1,6 @@
+{
+  "name": "AI Summarizer",
+  "description": "An AI-powered Content Summarizer and Learning Assistant designed to help users quickly understand long-form content in an intelligent, human-friendly, and personalized way.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
